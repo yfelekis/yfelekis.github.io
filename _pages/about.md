@@ -18,7 +18,5 @@ More information about my background can be found on my [CV](https://yfelekis.gi
 
 Research Interests
 ======
-My research interests lie in the intersection of Machine Learning and Causality. 
-Specifically, my  focus is on Causal Inference, Digital Twins  and Probabilistic Machine Learning through the lens of Bayesian statistics. 
-I also have a strong interest in understanding how the later ones could be applied in the fields of social sciences and decision making theory.
-Finally, I am also interested in Blockchain technology and particularly Decentralised Finance applications such as Automated Market Makers.
+My research interests lie in the intersection of Machine Learning and Causality. Specifically, my  focus is on Causal Inference applications on Abstraction Theory and the theoretical foundations of causally-inspired Digital Twins and how the later ones could be applied in the fields of social sciences and decision making theory.
+I also have a strong personal interest in the the philosophical topic of causation in natural sciences and more particularly in evolutionary biology.
