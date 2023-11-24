@@ -4,7 +4,7 @@ permalink: /publications/
 type: publications
 ---
 
-* **Felekis Y.**, Zennaro F.M., Branchini N., Damoulas T. [Causal Optimal Transport of Abstractions](), CLeaR (Causal Learning and Reasoning) 2024 [under review]
+* [Causal Optimal Transport of Abstractions](), **Felekis Y.**, Zennaro F.M., Branchini N., Damoulas T., CLeaR (Causal Learning and Reasoning) 2024 [under review]
   
 * Dyer J., Bishop N., **Felekis Y.**, Zennaro F.M., Calinescu A., Damoulas T., Wooldridge M.[Interventionally Consistent Surrogates for Agent-based Simulators](), AISTATS 2024 [under review]
 
