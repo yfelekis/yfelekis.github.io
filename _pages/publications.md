@@ -3,9 +3,6 @@ title: ""
 permalink: /publications/
 type: publications
 ---
-* [Causal Optimal Transport of Abstractions](dd), **Felekis Y.**, Zennaro F.M., Branchini N., Damoulas T., CLeaR (Causal Learning and Reasoning) 2024 (under review)
-  
-* [Interventionally Consistent Surrogates for Agent-based Simulators](dd), Dyer J., Bishop N., **Felekis Y.**, Zennaro F.M., Calinescu A., Damoulas T., Wooldridge M., AISTATS 2024 (under review)
 
 * [Probabilistic Deep Learning with Generalised Variational Inference 
 ](https://openreview.net/forum?id=L_jGauvvbu0), **Felekis Y.**, Damoulas T., Paige B., 4th Symposium on Advances in Approximate Bayesian Inference (AABI) 2022.
