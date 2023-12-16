@@ -4,7 +4,7 @@ permalink: /publications/
 type: publications
 ---
 
-* [Causal Optimal Transport of Abstractions](https://arxiv.org/pdf/2312.08107.pdf), **Felekis Y.**, Zennaro FM., Branchini N., Damoulas T., arXiv preprint.
+* [Causal Optimal Transport of Abstractions](https://arxiv.org/pdf/2312.08107.pdf), **Felekis Y.**, Zennaro FM., Branchini N., Damoulas T., arXiv preprint 2023. 
   
 * [Probabilistic Deep Learning with Generalised Variational Inference](https://openreview.net/pdf?id=L_jGauvvbu0), **Felekis Y.**,, Damoulas T., Paige B., 4th Symposium on Advances in Approximate Bayesian Inference (AABI) 2022.
 
@@ -14,4 +14,4 @@ type: publications
 
 * [Deep Learning for Agricultural Land Detection in Insular Areas](https://ieeexplore.ieee.org/document/8900670), Charou E., **Felekis Y.**, Bournou D., 10th International Conference on Information, Intelligence, Systems and Applications (IISA) 2019.
   
-* [ex-GPT: An Extractive-Abstractive Summarization Framework with a Sentence Embeddings Twist](https://github.com/LorenzoMinto/ex-GPT-Summarizer/blob/master/GPTe__An_extractive_abstractive_summarization_framework.pdf), Minto L., Kmec J.,**Felekis Y.**, Filippi G., preprint.
+* [ex-GPT: An Extractive-Abstractive Summarization Framework with a Sentence Embeddings Twist](https://github.com/LorenzoMinto/ex-GPT-Summarizer/blob/master/GPTe__An_extractive_abstractive_summarization_framework.pdf), Minto L., Kmec J.,**Felekis Y.**, Filippi G., preprint 2020.
