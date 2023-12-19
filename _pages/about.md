@@ -14,7 +14,7 @@ I hold the "Onassis Scholarship for Doctoral Studies" fellowship of the [Onassis
 
 Prior to my PhD, I completed the MSc in Machine Learning at UCL (2020) with Distinction and the 4-year BSc in Mathematics at the National and Kapodistrian University of Athens (2019) with First-Class Honours.
 
-More information about my background can be found on my [CV](https://yfelekis.github.io/files/CV_G_FELEKIS_page.pdf).
+More information about my background can be found on my [CV](https://yfelekis.github.io/files/CV_Y_FELEKIS_page.pdf).
 
 Research Interests
 ======
