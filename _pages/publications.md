@@ -8,6 +8,8 @@ type: publications
 
 * [Interventionally Consistent Surrogates for Agent-based Simulators](https://arxiv.org/pdf/2312.11158.pdf), Dyer J., Bishop N., **Felekis Y.**, Zennaro F.M., Calinescu A., Damoulas T., Wooldridge M. arXiv preprint 2023.
 
+**Pre-PhD**
+
 * [Probabilistic Deep Learning with Generalised Variational Inference](https://openreview.net/pdf?id=L_jGauvvbu0), **Felekis Y.**,, Damoulas T., Paige B., 4th Symposium on Advances in Approximate Bayesian Inference (AABI) 2022.
 
 * [λ - Constant Function Markets: Generalizing and Mixing Automated Market Makers](https://ieeexplore.ieee.org/document/9881841), **Felekis Y.**, Kristensen J., IEEE Blockchain 2022.
