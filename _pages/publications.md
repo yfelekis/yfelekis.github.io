@@ -4,6 +4,8 @@ permalink: /publications/
 type: publications
 ---
 
+**PhD**
+
 * [Causal Optimal Transport of Abstractions](https://arxiv.org/pdf/2312.08107.pdf), **Felekis Y.**, Zennaro FM., Branchini N., Damoulas T., arXiv preprint 2023. 
 
 * [Interventionally Consistent Surrogates for Agent-based Simulators](https://arxiv.org/pdf/2312.11158.pdf), Dyer J., Bishop N., **Felekis Y.**, Zennaro F.M., Calinescu A., Damoulas T., Wooldridge M. arXiv preprint 2023.
