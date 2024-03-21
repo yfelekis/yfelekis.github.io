@@ -20,3 +20,7 @@ Research Interests
 ======
 My research interests lie in the intersection of Machine Learning and Causality. Specifically, my  focus is on Causal Inference applications on Abstraction Theory and the theoretical foundations of causally-inspired Digital Twins and how the later ones could be applied in the fields of social sciences and decision making theory.
 I also have a strong personal interest in the philosophical topic of causation in natural sciences.
+
+Personal Blog
+======
+Coming soon...
