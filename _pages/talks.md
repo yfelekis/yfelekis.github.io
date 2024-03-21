@@ -1,5 +1,5 @@
 ---
-title: "Talks and Presentations"
+title: ""
 permalink: /talks/
 type: talks
 ---
