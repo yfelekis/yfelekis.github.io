@@ -9,6 +9,8 @@ type: talks
 
 * **Causal Optimal Transport of Abstractions**, May 2024 @ Algorithms & Computationally Intensive Inference Seminar, University of Warwick, Coventry, UK
 
+* **Causal Optimal Transport of Abstractions**, Apr. 2024 @ Stanford University, USA
+* 
 * **Causal Optimal Transport of Abstractions** (poster), Apr. 2024 @ Causal Learning and Reasoning (CLeaR), UCLA, Los Angeles, USA
 
 
