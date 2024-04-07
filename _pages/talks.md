@@ -9,13 +9,14 @@ type: talks
 
 * **Causal Optimal Transport of Abstractions**, May 2024 @ Algorithms & Computationally Intensive Inference Seminar, University of Warwick, Coventry, UK
 
-* **Causal Optimal Transport of Abstractions**, Apr. 2024 @ Stanford AI Lab, Stanford University, CA, USA
-  
-* **Causal Optimal Transport of Abstractions** (poster), Apr. 2024 @ Causal Learning and Reasoning (CLeaR), UCLA, Los Angeles, CA, USA
 
 
 **Previous:**
 
+* **Causal Optimal Transport of Abstractions**, Apr. 2024 @ Stanford AI Lab, Stanford University, CA, USA
+  
+* **Causal Optimal Transport of Abstractions** (poster), Apr. 2024 @ Causal Learning and Reasoning (CLeaR), UCLA, Los Angeles, CA, USA
+  
 * **Bridging micro and macro causal realms**, Dec. 2023 @ Warwick Postgraduate Colloquium in Computer Science, University of Warwick, Coventry, UK
 
 * **Probabilistic Deep Learning with Generalised Variational Inference** (poster), Feb. 2022 @ 4th Symposium on Advances in Approximate Bayesian Inference (Virtual Event)
