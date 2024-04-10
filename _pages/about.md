@@ -12,14 +12,13 @@ I am a PhD student at University of Warwick in the Department of Computer Scienc
 
 I hold the "Onassis Scholarship for Doctoral Studies" fellowship of the [Onassis Foundation](https://www.onassis.org/) and my research is also supported by the "Turing AI Acceleration Fellowship" of the [Alan Turing Institute](https://www.turing.ac.uk/) on Machine Learning Foundations of Digital Twins.
 
-Prior to my PhD, I completed the MSc in Machine Learning at UCL (2020) with Distinction and the 4-year BSc in Mathematics at the National and Kapodistrian University of Athens (2019) with First-Class Honours.
+Prior to my PhD, I completed the MSc in Machine Learning at UCL (2020) with Distinction where I was fortunate to work with [Prof. Theodoros Damoulas](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/damoulas/) and [Prof. Brooks Paige](https://tbrx.github.io/) and the 4-year BSc in Mathematics at the National and Kapodistrian University of Athens (2019) with First-Class Honours.
 
 More information about my background can be found on my [CV](https://yfelekis.github.io/files/CV_Y_FELEKIS_page.pdf) *(last update: Dec. 2023)*.
 
 Research Interests
 ======
-My research interests lie in the intersection of Machine Learning and Causality. Specifically, my  focus is on Causal Inference applications on Abstraction Theory and the theoretical foundations of causally-inspired Digital Twins and how the later ones could be applied in the fields of social sciences and decision making theory.
-I also have a strong personal interest in the philosophical topic of causation in natural sciences.
+My research interests lie in the intersection of Machine Learning and Causality. Specifically, my  focus is on Causal Representation Learning, Causal Abstractions and the theoretical foundations of causally-inspired Digital Twins and how the later ones could be applied in the fields of social sciences and decision making theory. I also have a strong personal interest in the philosophical topic of causation and emergence in natural sciences.
 
 Personal Blog
 ======
