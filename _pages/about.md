@@ -10,7 +10,7 @@ redirect_from:
 
 I am a PhD student at University of Warwick in the Department of Computer Science, supervised by [Prof. Theodoros Damoulas](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/damoulas/). I am also a member of the [Warwick Machine Learning Group](https://wmlg.io/).
 
-I hold the "Onassis Scholarship for Doctoral Studies" fellowship of the [Onassis Foundation](https://www.onassis.org/) and my research is also supported by the UKRI Turing AI Acceleration Fellowship on Machine Learning Foundations of Digital Twins.
+I hold the "Onassis Scholarship for Doctoral Studies" fellowship of the [Onassis Foundation](https://www.onassis.org/) and my research is also supported by the [UKRI Turing AI Acceleration Fellowship](https://www.ukri.org/news/new-turing-ai-fellows-to-deliver-world-class-ai-research/) on Machine Learning Foundations of Digital Twins.
 
 Prior to my PhD, I completed the MSc in Machine Learning at UCL with Distinction where I was fortunate to work with [Prof. Theodoros Damoulas](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/damoulas/) and [Prof. Brooks Paige](https://tbrx.github.io/) and the 4-year BSc in Mathematics at the National and Kapodistrian University of Athens with First-Class Honours.
 
