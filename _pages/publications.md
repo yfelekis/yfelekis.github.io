@@ -6,9 +6,9 @@ type: publications
 
 **PhD**
 
-* [Causal Optimal Transport of Abstractions](https://arxiv.org/pdf/2312.08107.pdf), **Felekis Y.**, Zennaro F.M., Branchini N., Damoulas T., Causal Learning and Reasoning (CLeaR) 2024. 
+* [Causal Optimal Transport of Abstractions](https://proceedings.mlr.press/v236/felekis24a/felekis24a.pdf), **Felekis Y.**, Zennaro F.M., Branchini N., Damoulas T., Causal Learning and Reasoning (CLeaR) 2024. 
 
-* [Causally Abstracted Multi-armed Bandits](), Zennaro F.M., Bishop N., Dyer J., **Felekis Y.**, Calinescu A., Wooldridge M., Damoulas T., Uncertainty in Artificial Intelligence (UAI), 2024
+* [Causally Abstracted Multi-armed Bandits](https://arxiv.org/pdf/2404.17493), Zennaro F.M., Bishop N., Dyer J., **Felekis Y.**, Calinescu A., Wooldridge M., Damoulas T., Uncertainty in Artificial Intelligence (UAI), 2024
 
 * [Interventionally Consistent Surrogates for Agent-based Simulators](https://arxiv.org/pdf/2312.11158.pdf), Dyer J., Bishop N., **Felekis Y.**, Zennaro F.M., Calinescu A., Damoulas T., Wooldridge M. arXiv preprint 2023.
 
