@@ -34,6 +34,7 @@ Here's a curated list of great books that I've either enjoyed in the past or pla
 
 * *Odyssey* by Homer
 
+* *The Emperor's New Mind* by Roger Penrose
   
 
 
