@@ -26,8 +26,6 @@ Here's a curated list of great books that I've either enjoyed in the past or pla
 
 * *Gödel, Escher, Bach* by Douglas Hofstadter
 
-* *Gemma* by Dimitris Liantinis
-
 * *The Symposium* by Plato
 
 * *Republic* by Plato
