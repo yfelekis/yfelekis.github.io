@@ -6,7 +6,7 @@ type: talks
 
 **Upcoming:**
 
-* **Causal Modeling in Multi-scale systems**, Jun. 2024 @ Institute of Informatics and Telecommunications, NCSR "Demokritos", Athens, GR
+* **Causal Modeling in Multi-Scale Systems**, Jun. 2024 @ Institute of Informatics and Telecommunications, NCSR "Demokritos", Athens, GR
   
 
 **Previous:**
