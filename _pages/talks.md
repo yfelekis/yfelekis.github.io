@@ -6,14 +6,14 @@ type: talks
 
 **Upcoming:**
 
-
-* **Causal Optimal Transport of Abstractions**, May 2024 @ Algorithms & Computationally Intensive Inference Seminar, University of Warwick, Coventry, UK
-
-
+* **Causal Modeling in Multi-scale systems**, Jun. 2024 @ Institute of Informatics and Telecommunications, NCSR "Demokritos", Athens, GR
+  
 
 **Previous:**
 
-* **Causal Optimal Transport of Abstractions**, Apr. 2024 @ Stanford AI Lab, Stanford University, CA, USA
+* **Causal Optimal Transport of Abstractions**, May 2024 @ Algorithms & Computationally Intensive Inference Seminar, University of Warwick, Coventry, UK
+
+* **Causal Optimal Transport of Abstractions**, Apr. 2024 @ Stanford AI Lab, Stanford University, CA, USA 
   
 * **Causal Optimal Transport of Abstractions** (poster), Apr. 2024 @ Causal Learning and Reasoning (CLeaR), UCLA, Los Angeles, CA, USA
   
