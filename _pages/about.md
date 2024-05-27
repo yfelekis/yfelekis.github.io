@@ -14,7 +14,7 @@ I hold the "Onassis Scholarship for Doctoral Studies" fellowship of the [Onassis
 
 Prior to my PhD, I completed the MSc in Machine Learning at UCL with Distinction where I was fortunate to work with [Prof. Theodoros Damoulas](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/damoulas/) and [Prof. Brooks Paige](https://tbrx.github.io/) and the 4-year BSc in Mathematics at the National and Kapodistrian University of Athens with First-Class Honours.
 
-More information about my background can be found on my [CV](https://yfelekis.github.io/files/CV_Y_FELEKIS_page.pdf) *(last update: Apr. 2024)*.
+More information about my background can be found on my [CV](https://yfelekis.github.io/files/CV_Y_FELEKIS_page.pdf) *(last update: May 2024)*.
 
 Check [here](https://yfelekis.github.io/talks/) for upcoming talks!
 
