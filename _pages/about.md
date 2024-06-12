@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at University of Warwick in the Department of Computer Science, supervised by [Prof. Theodoros Damoulas](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/damoulas/). I am also a member of the [Warwick Machine Learning Group](https://wmlg.io/).
+I am a PhD student at University of Warwick in the Department of Computer Science, supervised by [Prof. Theodoros Damoulas](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/damoulas/). I am also a member of the [Warwick Machine Learning Group](https://wmlg.io/). 
 
 I hold the "Onassis Scholarship for Doctoral Studies" fellowship of the [Onassis Foundation](https://www.onassis.org/) and my research is also supported by the [UKRI Turing AI Acceleration Fellowship](https://www.ukri.org/news/new-turing-ai-fellows-to-deliver-world-class-ai-research/) on Machine Learning Foundations of Digital Twins.
 
@@ -18,9 +18,11 @@ More information about my background can be found on my [CV](https://yfelekis.gi
 
 Check [here](https://yfelekis.github.io/talks/) for upcoming talks!
 
+**I recently received the Placement Award for the Alan Turing Institute's Enrichment Scheme and starting in October 2024, I will be based at the ATI for the entire academic year!**
+
 Research Interests
 ======
-My research interests lie in the intersection of Machine Learning and Causality. Specifically, my  focus is on Causal Representation Learning, Causal Abstractions and the theoretical foundations of causally-inspired Digital Twins and how the later ones could be applied in the fields of social sciences and decision making theory. I also have a strong personal interest in the philosophical topic of causation and emergence in natural sciences.
+My research interests lie in the intersection of Probabilistic Machine Learning and Causality. Specifically, my  focus is on Causal Representation Learning, Causal Abstractions and the theoretical foundations of causally-inspired Digital Twins and how the later ones could be applied in the fields of social sciences and decision making theory. I also have a strong personal interest in the philosophical topic of causation and emergence in natural sciences.
 
 Personal Blog
 ======
