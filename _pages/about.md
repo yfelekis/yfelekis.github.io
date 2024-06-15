@@ -8,15 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at University of Warwick in the Department of Computer Science, supervised by [Prof. Theodoros Damoulas](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/damoulas/). I am also a member of the [Warwick Machine Learning Group](https://wmlg.io/). I recently received the Placement Award for the [Alan Turing Institute's Enrichment Scheme](https://www.turing.ac.uk/work-turing/studentships/enrichment) and I will be based at the ATI for the entire 2024/25 academic year.
+I am a PhD student at University of Warwick in the Department of Computer Science, supervised by [Prof. Theodoros Damoulas](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/damoulas/). I am a member of the [Warwick Machine Learning Group](https://wmlg.io/), where I have also been organizing a reading group focusing on advanced topics in Machine Learning, including causality, robustness, and statistical machine learning.
+
+For the upcoming academic year (2024/25), I will be based at the Alan Turing Institute (ATI) in London, having recently been awarded the Placement Award through the Alan Turing Institute’s [Enrichment Scheme]((https://www.turing.ac.uk/work-turing/studentships/enrichment)). 
 
 I hold the "Onassis Scholarship for Doctoral Studies" fellowship of the [Onassis Foundation](https://www.onassis.org/) and my research is also supported by the [UKRI Turing AI Acceleration Fellowship](https://www.ukri.org/news/new-turing-ai-fellows-to-deliver-world-class-ai-research/) on Machine Learning Foundations of Digital Twins.
 
 Prior to my PhD, I completed the MSc in Machine Learning at UCL with Distinction where I was fortunate to work with [Prof. Theodoros Damoulas](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/damoulas/) and [Prof. Brooks Paige](https://tbrx.github.io/) and the 4-year BSc in Mathematics at the National and Kapodistrian University of Athens with First-Class Honours.
 
-More information about my background can be found on my [CV](https://yfelekis.github.io/files/CV_Y_FELEKIS_page.pdf) *(last update: May 2024)*.
+For a more detailed overview of my academic and professional background, please refer to my [CV](https://yfelekis.github.io/files/CV_Y_FELEKIS_page.pdf) *(last updated: May 2024)*.
 
-Check [here](https://yfelekis.github.io/talks/) for upcoming talks!
+Stay tuned for my upcoming [talks](https://yfelekis.github.io/talks/)!
 
 Research Interests
 ======
