@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at University of Warwick in the Department of Computer Science, supervised by [Prof. Theodoros Damoulas](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/damoulas/). I am a member of the [Warwick Machine Learning Group](https://wmlg.io/), where I have also been organizing a reading group focusing on advanced topics in Machine Learning, including causality, robustness, and statistical machine learning.
+I am a PhD student at University of Warwick in the Department of Computer Science, supervised by [Prof. Theodoros Damoulas](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/damoulas/). Also, I am a member of the [Warwick Machine Learning Group](https://wmlg.io/), where I have been organizing the reading group on advanced topics in Machine Learning, including causality, robustness, and statistical machine learning.
 
 For the upcoming academic year (2024/25), I will be based at the Alan Turing Institute (ATI) in London, having recently been awarded the Placement Award through the Alan Turing Institute’s [Enrichment Scheme]((https://www.turing.ac.uk/work-turing/studentships/enrichment)). 
 
