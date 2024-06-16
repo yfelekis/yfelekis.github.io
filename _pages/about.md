@@ -10,7 +10,7 @@ redirect_from:
 
 I am a PhD student at University of Warwick in the Department of Computer Science, supervised by [Prof. Theodoros Damoulas](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/damoulas/). Also, I am a member of the [Warwick Machine Learning Group](https://wmlg.io/), where I have been organizing the reading group on advanced topics in Machine Learning, including causality, robustness, and statistical machine learning.
 
-For the upcoming academic year (2024/25), I will be based at the Alan Turing Institute (ATI) in London, having recently been awarded the Placement Award through the Alan Turing Institute’s [Enrichment Scheme]((https://www.turing.ac.uk/work-turing/studentships/enrichment)). 
+For the upcoming academic year (2024/25), I will be based at the Alan Turing Institute (ATI) in London, having recently been awarded the Placement Award through the ATI’s [Enrichment Scheme]((https://www.turing.ac.uk/work-turing/studentships/enrichment)). 
 
 I hold the "Onassis Scholarship for Doctoral Studies" fellowship of the [Onassis Foundation](https://www.onassis.org/) and my research is also supported by the [UKRI Turing AI Acceleration Fellowship](https://www.ukri.org/news/new-turing-ai-fellows-to-deliver-world-class-ai-research/) on Machine Learning Foundations of Digital Twins.
 
