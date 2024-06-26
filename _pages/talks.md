@@ -6,7 +6,7 @@ type: talks
 
 **Upcoming:**
 
-* **Think, Reason and Learn in Multi-Scale Causal Systems**, Jun. 2024 @ Institute of Informatics and Telecommunications, NCSR "Demokritos", Athens, GR
+* <**Think, Reason and Learn in Multi-Scale Causal Systems**, Jun. 2024 @ Institute of Informatics and Telecommunications, NCSR "Demokritos", Athens, GR>
   
 
 **Previous:**
