@@ -3,6 +3,7 @@ title: ""
 permalink: /publications/
 type: publications
 ---
+For a complete and up-to-date list of my publications please visit my [Google Scholar profile](https://scholar.google.com/citations?user=Zfe9QCAAAAAJ&hl=en&oi=ao)!
 
 **PhD**
 
