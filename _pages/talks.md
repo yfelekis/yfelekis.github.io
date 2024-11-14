@@ -6,7 +6,9 @@ type: talks
 
 **Upcoming:**
 
-* [**Postponed**] **Think, Reason and Learn in Multi-Scale Causal Systems**, Jun. 2024 @ Institute of Informatics and Telecommunications, NCSR "Demokritos", Athens, GR>
+* **Causal Optimal Transport of Abstractions**, Dec. 2024 @ Causal Club reading group, University of Pisa, Pisa, IT
+
+* **Think, Reason and Learn in Multi-Scale Causal Systems**, Nov. 2024 @ CS & Stats Research Seminar Series, University of Warwick, Coventry, UK
   
 
 **Previous:**
