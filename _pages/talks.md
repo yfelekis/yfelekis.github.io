@@ -6,12 +6,16 @@ type: talks
 
 **Upcoming:**
 
-* **Causal Optimal Transport of Abstractions**, Dec. 2024 @ Causal Club reading group, University of Pisa, Pisa, IT
-
-* **Think, Reason and Learn in Multi-Scale Causal Systems**, Nov. 2024 @ CS & Stats Research Seminar Series, University of Warwick, Coventry, UK
+TBA
   
 
 **Previous:**
+
+* **Interventionally Consistent Surrogates for Complex Simulation Models** (poster), Dec. 2024 @ Annual Conference on Neural Information Processing Systems, Vancouver, CA
+
+* **Causal Optimal Transport of Abstractions**, Dec. 2024 @ Causal Club reading group, University of Pisa, Pisa, IT
+
+* **Think, Reason and Learn in Multi-Scale Causal Systems**, Nov. 2024 @ CS & Stats Research Seminar Series, University of Warwick, Coventry, UK
 
 * **Causal Optimal Transport of Abstractions**, May 2024 @ Algorithms & Computationally Intensive Inference Seminar, University of Warwick, Coventry, UK
 
