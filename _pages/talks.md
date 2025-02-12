@@ -6,7 +6,7 @@ type: talks
 
 **Upcoming:**
 
-TBA
+* **Towards Causal Neuroabstractions**, Feb. 2025 @ NeuroAI seminar, The Alan Turing Institute, London, UK
   
 
 **Previous:**
