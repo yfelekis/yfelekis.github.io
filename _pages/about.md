@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at University of Warwick in the Department of Computer Science and member of the [Warwick Machine Learning Group](https://wmlg.io/), supervised by [Prof. Theodoros Damoulas](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/damoulas/). I am currently based at the Alan Turing Institute (ATI) in London, having recently been awarded the Placement Award through the ATI’s [Enrichment Scheme](https://www.turing.ac.uk/work-turing/studentships/enrichment) where I am also co-organising the [Physics-Informed Machine Learning seminar series](https://www.turing.ac.uk/events/phi-ml-meets-engineering). 
+I am a PhD student at the University of Warwick in the Department of Computer Science and member of the [Warwick Machine Learning Group](https://wmlg.io/), supervised by [Prof. Theodoros Damoulas](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/damoulas/). I am currently based at the Alan Turing Institute (ATI) in London, having recently been awarded the Placement Award through the ATI’s [Enrichment Scheme](https://www.turing.ac.uk/work-turing/studentships/enrichment) where I am also co-organising the [Physics-Informed Machine Learning seminar series](https://www.turing.ac.uk/events/phi-ml-meets-engineering). 
 
 I hold the "Onassis Scholarship for Doctoral Studies" fellowship of the [Onassis Foundation](https://www.onassis.org/) and my research is also supported by the [UKRI Turing AI Acceleration Fellowship](https://www.ukri.org/news/new-turing-ai-fellows-to-deliver-world-class-ai-research/) on Machine Learning Foundations of Digital Twins, awarded to Prof. Theodoros Damoulas.
 
