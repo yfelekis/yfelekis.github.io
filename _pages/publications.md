@@ -5,7 +5,6 @@ type: publications
 ---
 For a complete and up-to-date list of my publications please visit my [Google Scholar profile](https://scholar.google.com/citations?user=Zfe9QCAAAAAJ&hl=en&oi=ao)!
 
-**PhD**
 
 * [Causal Abstraction Learning based on the Semantic Embedding Principle](https://arxiv.org/pdf/2502.00407), D’Acunto G., Zennaro F.M., **Felekis Y.**, Paolo Di Lorenzo, International Conference on Machine Learning (ICML), 2025
   
@@ -14,8 +13,6 @@ For a complete and up-to-date list of my publications please visit my [Google Sc
 * [Causally Abstracted Multi-armed Bandits](https://arxiv.org/pdf/2404.17493), Zennaro F.M., Bishop N., Dyer J., **Felekis Y.**, Calinescu A., Wooldridge M., Damoulas T., Uncertainty in Artificial Intelligence (UAI), 2024
 
 * [Interventionally Consistent Surrogates for Agent-based Simulators](https://arxiv.org/pdf/2312.11158.pdf), Dyer J., Bishop N., **Felekis Y.**, Zennaro F.M., Calinescu A., Damoulas T., Wooldridge M., Neural Information Processing Systems (NeurIPS), 2024.
-
-**Pre-PhD**
 
 * [Probabilistic Deep Learning with Generalised Variational Inference](https://openreview.net/pdf?id=L_jGauvvbu0), **Felekis Y.**,, Damoulas T., Paige B., 4th Symposium on Advances in Approximate Bayesian Inference (AABI), 2022.
 
