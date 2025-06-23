@@ -10,6 +10,8 @@ TBA
 
 **Previous:**
 
+* **From Patterns to Principles: Towards Causal and Scientific AI**, Jun. 2025 @ AI & Society symposium, University of Warwick, Coventry, UK
+
 * **Towards Causal Neuroabstractions**, Feb. 2025 @ NeuroAI seminar, The Alan Turing Institute, London, UK
 
 * **Causal Optimal Transport of Abstractions**, Dec. 2024 @ Causal Club reading group, University of Pisa, Pisa, IT
