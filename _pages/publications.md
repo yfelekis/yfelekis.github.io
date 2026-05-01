@@ -6,7 +6,7 @@ type: publications
 For a complete and up-to-date list of my publications please visit my [Google Scholar profile](https://scholar.google.com/citations?user=Zfe9QCAAAAAJ&hl=en&oi=ao)!
 
 
-* [Distributionally Robust Causal Abstractions](https://arxiv.org/pdf/2510.04842), **Felekis Y.**, Damoulas T., Giampouras P., arXiv preprint, 2025
+* [Distributionally Robust Causal Abstractions](https://arxiv.org/pdf/2510.04842), **Felekis Y.**, Damoulas T., Giampouras P., International Conference on Machine Learning (ICML), 2026
   
 * [Causal Abstraction Learning based on the Semantic Embedding Principle](https://arxiv.org/pdf/2502.00407), D’Acunto G., Zennaro F.M., **Felekis Y.**, Paolo Di Lorenzo, International Conference on Machine Learning (ICML), 2025
   
