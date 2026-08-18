@@ -6,9 +6,11 @@ type: publications
 For a complete and up-to-date list of my publications please visit my [Google Scholar profile](https://scholar.google.com/citations?user=Zfe9QCAAAAAJ&hl=en&oi=ao)!
 
 
+* [Generalised Transportability via Causal Abstractions](https://arxiv.org/pdf/2608.15645), **Felekis Y.**, Giampouras P., Zennaro F.M., Damoulas T., arXiv preprint, 2026
+  
 * [Distributionally Robust Causal Abstractions](https://arxiv.org/pdf/2510.04842), **Felekis Y.**, Damoulas T., Giampouras P., International Conference on Machine Learning (ICML), 2026
 
-* [Causal Representation Learning for Generalisable Recommendation](https://arxiv.org/abs/2605.27043v1), **Felekis Y.**<sup> *</sup>, O’Riordan, M.<sup> *</sup>, Corcoll, O., Gilligan-Lee, CM., arXiv preprint, 2026
+* [Causal Representation Learning for Generalisable Recommendation](https://arxiv.org/pdf/2605.27043v1), **Felekis Y.**<sup> *</sup>, O’Riordan, M.<sup> *</sup>, Corcoll, O., Gilligan-Lee, CM., arXiv preprint, 2026
         
   
 * [Causal Abstraction Learning based on the Semantic Embedding Principle](https://arxiv.org/pdf/2502.00407), D’Acunto G., Zennaro F.M., **Felekis Y.**, Paolo Di Lorenzo, International Conference on Machine Learning (ICML), 2025
